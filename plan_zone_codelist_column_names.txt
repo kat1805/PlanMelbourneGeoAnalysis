@@ -1,0 +1,19 @@
+﻿The column names in a Shape file are limited to 10 characters
+This lists the short column name and the original column name in the database table
+-----------------------------------------------------------------------------------------------------
+
+ZONESTATUS = ZONE_STATUS
+GAZ_B_DATE = GAZ_BEGIN_DATE
+UFI_CR = UFI_CREATED
+SCHEMECODE = SCHEME_CODE
+UFI = UFI
+PFI_CR = PFI_CREATED
+PFI = PFI
+LGA = LGA
+ZONE_CODE = ZONE_CODE
+ZONE_NUM = ZONE_NUM
+CODEPARENT = CODE_PARENT
+ZNCODEGRPL = ZONE_CODE_GROUP_LABEL
+ZONE_DESC = ZONE_DESCRIPTION
+ZNCODEGRP = ZONE_CODE_GROUP
+LGA_CODE = LGA_CODE

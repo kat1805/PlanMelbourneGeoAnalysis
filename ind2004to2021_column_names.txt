@@ -1,0 +1,14 @@
+﻿The column names in a Shape file are limited to 10 characters
+This lists the short column name and the original column name in the database table
+-----------------------------------------------------------------------------------------------------
+
+LOT_AREA = LOT_AREA
+ZONE_CODE = ZONE_CODE
+LGA_NAME = LGA_NAME
+PRECNAME = PRECNAME
+STAT_CODE = STATUS_CODE
+ZONE_DESC = ZONE_DESCRIPTION
+STATUSDESC = STATUS_DESC
+PRECTYPE = PRECTYPE
+ZONE_NUM = ZONE_NUM
+YEAR = YEAR
